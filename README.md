@@ -4,6 +4,7 @@ Real-time Opinion Evolution Model in Dynamic Multilayer Networks
 
 📖 摘要 (Abstract)
 针对现有研究在刻画网络层次结构和动态互动模式方面的不足，本项目提出并实现了以下核心内容：
+
 1.动态多层社区网络模型 (DMCN)：构建能够同时捕捉层次结构演化与节点动态交互特征的多层网络。
 
 2.实时多层动态自注意力网络 (RM-DySAT)：提取动态多层网络中的深层节点表示特征。
