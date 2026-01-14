@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5dcd41bb-6e65-48fa-9021-e823e9ddee33" name="Mary1">
+        <fileTransfer rootFolder="/root/autodl-tmp/project" accessType="SFTP" host="connect.westb.seetacloud.com" port="32510" sshConfigId="0a9ae47f-94ca-435b-93be-0fb8e8f8b579" sshConfig="root@connect.westb.seetacloud.com:32510 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="98c420b6-9d45-45a5-9a1a-15451e94591d" name="Mary2">
+        <fileTransfer rootFolder="/root/autodl-tmp/dysat_live" accessType="SFTP" host="connect.westb.seetacloud.com" port="24134" sshConfigId="3d527545-300e-4178-9efe-5bf0a8bc79e4" sshConfig="root@connect.westb.seetacloud.com:24134 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0016bcbe-7797-4bf8-b89d-eab775800302" name="Mary4">
+        <fileTransfer rootFolder="/root/autodl-tmp/project" accessType="SFTP" host="connect.westb.seetacloud.com" port="43598" sshConfigId="6264aeaa-dd3b-4bff-8658-b9031d1de3cf" sshConfig="root@connect.westb.seetacloud.com:43598 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0b68dacb-51c2-49fa-8beb-7e303110c19e" name="Mary5">
+        <fileTransfer rootFolder="/root/autodl-tmp/project" accessType="SFTP" host="connect.westb.seetacloud.com" port="31599" sshConfigId="f1ab91bf-4292-4729-92a2-4c3d3abb50f7" sshConfig="root@connect.westb.seetacloud.com:31599 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cded440b-e272-4e13-b977-471739ce8f89" name="Mary3">
+        <fileTransfer rootFolder="/root/autodl-tmp/project" accessType="SFTP" host="connect.westb.seetacloud.com" port="35847" sshConfigId="75b79b27-b8c6-4b4b-b615-c900b946a2db" sshConfig="root@connect.westb.seetacloud.com:35847 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5b49a984-34d4-4953-aabd-8a1ef6a57052" name="Mary6">
+        <fileTransfer rootFolder="/root/autodl-tmp/project" accessType="SFTP" host="connect.westb.seetacloud.com" port="44120" sshConfigId="093bfddb-ece7-41e3-a295-447fa80b254a" sshConfig="root@connect.westb.seetacloud.com:44120 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
