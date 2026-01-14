@@ -1,2 +1,16 @@
 # livestorm
-Real-time Opinion Evolution Model in Dynamic Multilayer  Networks and Its Application in Live-streaming Behavior Prediction
+《动态多层网络中的实时观点演化模型及其在直播行为预测中的应用》
+Real-time Opinion Evolution Model in Dynamic Multilayer Networks
+
+📖 摘要 (Abstract)
+针对现有研究在刻画网络层次结构和动态互动模式方面的不足，本项目提出并实现了以下核心内容：
+1.动态多层社区网络模型 (DMCN)：构建能够同时捕捉层次结构演化与节点动态交互特征的多层网络。
+2.实时多层动态自注意力网络 (RM-DySAT)：提取动态多层网络中的深层节点表示特征。
+3.观点动力学模型 (RM-DySAT-BC)：融合有界信任规则与节点表示特征，实现动态多层网络与观点演化的深度耦合。
+4.直播行为预测：基于真实直播数据构建动态双层网络，预测用户在线行为并探索观点极化/分裂现象。
+
+🚀 运行指南 (Execution Sequence)
+为了确保实验的可复现性，本项目代码已按照执行顺序进行编号。
+
+📧 联系方式 (Contact)
+如果您对本研究有任何疑问，欢迎通过邮件(maohx001@163.com)联系。
