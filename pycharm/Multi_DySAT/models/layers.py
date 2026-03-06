@@ -121,7 +121,7 @@ class TemporalAttentionLayer(nn.Module):
         v_ = torch.cat(torch.split(v, split_size_or_sections=split_size, dim=2), dim=0) # [hN, T, F/h]
 
         outputs = torch.matmul(q_, k_.permute(0,2,1)) # [hN, T, T]
-        outputs = outputs / (self.num_time_steps ** 0.5)
+        outputs = outputs / (split_size ** 0.5)
         # 4: Masked (causal) softmax to compute attention weights.
         diag_val = torch.ones_like(outputs[0])
         tril = torch.tril(diag_val)
